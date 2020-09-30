@@ -15,6 +15,7 @@ int main() {
 	cout << "My second fix!" << endl;
 	cout << "Fix on main" << endl;
 	cout << "Bye!" << endl;
+	/* more bla */
 	return 0;
 }
 
