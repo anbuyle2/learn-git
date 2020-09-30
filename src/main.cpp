@@ -15,8 +15,11 @@ int main() {
 	cout << "My second fix!" << endl;
 	cout << "Fix on main" << endl;
 	cout << "Bye!" << endl;
+
 	/* more bla */
 	// Change on master
+	// Another change
+
 	return 0;
 }
 
