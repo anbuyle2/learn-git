@@ -10,7 +10,7 @@
 namespace buylea_be {
 
 Dummy::Dummy() {
-	// TODO Auto-generated constructor stub
+	// TODO
 
 }
 
