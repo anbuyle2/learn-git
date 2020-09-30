@@ -13,6 +13,7 @@ namespace buylea_be {
 class Dummy {
 public:
 	Dummy(); // Change on master
+	// Change2 on master while experimental changes on a different branch
 };
 
 } /* namespace buylea_be */
