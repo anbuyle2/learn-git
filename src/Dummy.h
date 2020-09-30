@@ -12,7 +12,7 @@ namespace buylea_be {
 
 class Dummy {
 public:
-	Dummy();
+	Dummy(); // Change on master
 };
 
 } /* namespace buylea_be */
